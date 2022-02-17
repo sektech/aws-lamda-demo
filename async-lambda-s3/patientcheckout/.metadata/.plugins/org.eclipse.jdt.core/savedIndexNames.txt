@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\MyContent\Training\AWS Lambda\async-lambda-s3\patientcheckout\.metadata\.plugins\org.eclipse.jdt.core
